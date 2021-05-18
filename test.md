@@ -11,8 +11,13 @@ int main(){
 - *Italic*
 
 ```rust
+fn main(){
+  let mut a = 1;
+  println!("{}", a);
+}
 ```
 
 - **Code python**
 ```python
+print()
 ```
